@@ -1,5 +1,3 @@
-//# Non_Eclidian_Geometry
-
 <h1 align="center">
   Non Eclidian Geometry
 </h1>
