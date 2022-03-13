@@ -2,7 +2,10 @@
   Non Eclidian Geometry
 </h1>
 
-***Module consumers!*** Frustrated by each module having its own wildly
+***Euclidean Geometry
+![image](https://user-images.githubusercontent.com/69034494/158064557-ac0a5635-d752-4dc8-8ae9-ea6438643062.png)*** 
+
+Frustrated by each module having its own wildly
 unique README format? Annoyed by modules that omit critical sections like
 **API** or **Examples**? Stuck scrolling through API docs before you *even know
 what the module does*?
