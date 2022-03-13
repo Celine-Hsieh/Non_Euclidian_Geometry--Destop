@@ -133,20 +133,3 @@ readmes and Node.
 ## See Also
 
 READMEs love [`readme`](https://www.npmjs.com/package/readme)!
-
-## License
-
-ISC
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-
