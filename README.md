@@ -1,8 +1,8 @@
-# Non_Eclidian_Geometry
+//# Non_Eclidian_Geometry
 
-<h2 align="center">
+<h1 align="center">
   Non Eclidian Geometry
-</h2>
+</h1>
 
 ***Module consumers!*** Frustrated by each module having its own wildly
 unique README format? Annoyed by modules that omit critical sections like
