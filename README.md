@@ -2,9 +2,11 @@
   Non Eclidian Geometry
 </h1>
 
-***Euclidean Geometry
-![image](https://user-images.githubusercontent.com/69034494/158064557-ac0a5635-d752-4dc8-8ae9-ea6438643062.png)*** 
+<h1 align="center">
+  <img src="https://github.com/celinehsieh68/Non_Eclidian_Geometry/blob/bbdd5201a7b16fc3ca69700d17849f46bad9a21d/img/final%20(1).gif" width="800" height="400"/>
+</h1>
 
+***Euclidean Geometry***
 Frustrated by each module having its own wildly
 unique README format? Annoyed by modules that omit critical sections like
 **API** or **Examples**? Stuck scrolling through API docs before you *even know
