@@ -1,14 +1,14 @@
 <h1 align="center">
-  Non Eclidian Geometry
+  Non Euclidian Geometry
 </h1>
 
 <h1 align="center">
   <img src="https://github.com/celinehsieh68/Non_Eclidian_Geometry/blob/bbdd5201a7b16fc3ca69700d17849f46bad9a21d/img/final%20(1).gif" width="800" height="400"/>
 </h1>
+This is the Final Project about Metaverse using Unity and C# Script.
+***What is Euclidean Geometry?***
+Metaverse Final Project
 
-***Euclidean Geometry***
-Frustrated by each module having its own wildly
-unique README format? Annoyed by modules that omit critical sections like
 **API** or **Examples**? Stuck scrolling through API docs before you *even know
 what the module does*?
 
@@ -112,26 +112,8 @@ You can now execute the `common-readme` command.
 
 ## Acknowledgments
 
-A standard readme format for the Node community isn't a new idea. Inspiration
-came from many conversations and unrealized efforts in the community:
+2022/01/11
 
-- <https://github.com/feross/standard/issues/141>
-- [richardlitt/standard-readme](https://github.com/RichardLitt/readme-standard)
-- [zwei/standard-readme](https://github.com/zcei/standard-readme)
-
-This, in addition to my own experiences evaluating hundreds of node modules and
-their READMEs.
-
-I was partly inspired by the audacity of the honey-badger-don't-care efforts of
-[standard](https://github.com/feross/standard).
-
-I also did a great deal of Perl archaeology -- it turns out the monks of the
-Perl community already did much of the hard work of [figuring out great
-READMEs](http://perldoc.perl.org/perlmodstyle.html) and the wisdom around small
-module development well over a decade ago.
-
-Thanks to @mafintosh, @andrewosh, and @feross for many long conversations about
-readmes and Node.
 
 ## See Also
 
