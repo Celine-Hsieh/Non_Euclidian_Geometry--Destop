@@ -11,13 +11,18 @@ The concept of the game is trying to subvert your imagination and change your mi
 ---
 ## About Non-Euclidean Geometry
 ***What is Euclidean Geometry?***
+
 Since the term “Geometry” deals with things like points, lines, angles, squares, triangles, and other shapes, Euclidean Geometry is also known as “plane geometry”. It deals with the properties and relationships between all things.
 
 **What is NON-Euclidean Geometry**
+
 But it turns out that not everything lives in a two-dimensional flat world and therefore not everything is bound by the laws of plane Euclidean geometry. For example: you, me, and all of humanity live on the surface of the Earth, and the Earth is not flat. It is, in fact, an approximately spherical object. Which means that the rules of plane geometry do not rule our lives.
 
 ***Euclidean Geometry V.S. NON-Euclidean Geometry*** 
-![image](https://user-images.githubusercontent.com/69034494/160838735-57aefee6-b1b9-4cf6-8c54-254ab9301c69.png)
+
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/69034494/160838735-57aefee6-b1b9-4cf6-8c54-254ab9301c69.png" width="800" height="400"/>
+</h1>
 
 ## The world, as a non euclidian world, behaves differently, having doors that lead to the same place and other paths that lead to nothing at all.
 
