@@ -47,5 +47,5 @@ But it turns out that not everything lives in a two-dimensional flat world and t
 > It is also a scaling mechaninc that shrinks or enlarges the Player.
 ---
 
-## Acknowledgments
+## Other
 2022/01/11
