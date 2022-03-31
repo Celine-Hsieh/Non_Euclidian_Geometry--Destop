@@ -39,11 +39,11 @@ But it turns out that not everything lives in a two-dimensional flat world and t
 ## Control
 > VR version(Device: htc vive with controller):
 1. Headsets - Look around
-2. TouchPad - Move forward/backward/strafe
+2. TouchPad - Move forward/backward
 3. Hair Trigger - jump
 
 > 2D Screen version(Desktop):
-1. W A S D - Move forward/backward/strafe
+1. W A S D - Move forward/backward
 2. Mouse - Left-Button to interact
 3. Space bar - jump
 ---
