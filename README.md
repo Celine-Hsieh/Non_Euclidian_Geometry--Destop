@@ -27,6 +27,15 @@ But it turns out that not everything lives in a two-dimensional flat world and t
 ***The world, as a non euclidian world, behaves differently, having doors that lead to the same place and other paths that lead to nothing at all.*** 
 
 ---
+
+##  System design (Core Mechanics)
+> It is used a portal mechanic to fool the player. 
+> 
+> It is used off-screen render targets to achieve a portal effect in Unity.
+> 
+> It is also a scaling mechaninc that shrinks or enlarges the Player.
+---
+
 ## Control
 > VR version(Device: htc vive with controller):
 1. Headsets - Look around
@@ -37,14 +46,6 @@ But it turns out that not everything lives in a two-dimensional flat world and t
 1. W A S D - Move forward/backward/strafe
 2. Mouse - Left-Button to interact
 3. Space bar - jump
----
-
-##  System design (Core Mechanics)
-> It is used a portal mechanic to fool the player. 
-> 
-> It is used off-screen render targets to achieve a portal effect in Unity.
-> 
-> It is also a scaling mechaninc that shrinks or enlarges the Player.
 ---
 
 ## Other
